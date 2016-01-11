@@ -19,8 +19,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    _dataArr =@[@"LineViewController", @"shapeViewController", @"circleViewController", @"TextImageViewController", @"DrawBearViewController",@"LayerDemoViewController",@"LayerPropertiesVC",@"TanHuangViewController", @"CABasicAnimationVC"];
-    _showArr =@[@"drawLine",@"drawShape", @"drowCircle", @"textImageView", @"drawBear", @"lilyLayer",@"maskLayer",@"tanhuang",@"CABasic动画"];
+    _dataArr =@[@"LineViewController", @"shapeViewController", @"circleViewController", @"TextImageViewController", @"DrawBearViewController",@"LayerDemoViewController",@"LayerPropertiesVC",@"TanHuangViewController", @"CABasicAnimationVC",@"GroupAniamtianVC", @"LilyKeyFrameVC",@"LLTransation1VC",@"LLTransitioon2VC"];
+    _showArr =@[@"drawLine",@"drawShape", @"drowCircle", @"textImageView", @"drawBear", @"lilyLayer",@"maskLayer",@"tanhuang",@"CABasic动画",@"CABasic组动画",@"关键帧动画superMario",@"Transition场景切换",@"各种方式切换几何"];
     
     
     UITableView *myTable =[[UITableView alloc]initWithFrame:self.view.frame style:UITableViewStylePlain];

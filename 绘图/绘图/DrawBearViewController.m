@@ -35,7 +35,7 @@
     
     int location1 = round(random()%ScreenW);
     
-    double scale = 1.0;//random()%100 +1.0;
+    double scale = 0.5;
 
     double speed = 1.0;///random()%100 +1.0;
     

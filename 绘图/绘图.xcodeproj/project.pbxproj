@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CC97874F1C437F1F00836229 /* LLTransation1VC.m in Sources */ = {isa = PBXBuildFile; fileRef = CC97874D1C437F1F00836229 /* LLTransation1VC.m */; };
+		CC9787501C437F1F00836229 /* LLTransation1VC.xib in Resources */ = {isa = PBXBuildFile; fileRef = CC97874E1C437F1F00836229 /* LLTransation1VC.xib */; };
+		CC9787571C437FEE00836229 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = CC9787511C437FEE00836229 /* 2.png */; };
+		CC9787581C437FEE00836229 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = CC9787521C437FEE00836229 /* 1.png */; };
+		CC9787591C437FEE00836229 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = CC9787531C437FEE00836229 /* 3.png */; };
+		CC97875A1C437FEE00836229 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = CC9787541C437FEE00836229 /* 4.png */; };
+		CC97875B1C437FEE00836229 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = CC9787551C437FEE00836229 /* 5.png */; };
+		CC97875C1C437FEE00836229 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = CC9787561C437FEE00836229 /* 6.png */; };
+		CC9787601C4383C800836229 /* LLTransitioon2VC.m in Sources */ = {isa = PBXBuildFile; fileRef = CC97875E1C4383C800836229 /* LLTransitioon2VC.m */; };
+		CC9787611C4383C800836229 /* LLTransitioon2VC.xib in Resources */ = {isa = PBXBuildFile; fileRef = CC97875F1C4383C800836229 /* LLTransitioon2VC.xib */; };
 		CCAA0A4F1C3FB78400D72B24 /* pic.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CCAA0A4E1C3FB78400D72B24 /* pic.jpg */; };
 		CCBEC1871C3F678700515E42 /* flake.png in Resources */ = {isa = PBXBuildFile; fileRef = CCBEC1861C3F678700515E42 /* flake.png */; };
 		CCBEC2081C3FAB0300515E42 /* UIImage+draw.m in Sources */ = {isa = PBXBuildFile; fileRef = CCBEC2071C3FAB0300515E42 /* UIImage+draw.m */; };
@@ -56,6 +66,11 @@
 		CCDA64231C3E924D008C7F50 /* DrawBearView.m in Sources */ = {isa = PBXBuildFile; fileRef = CCDA64221C3E924D008C7F50 /* DrawBearView.m */; };
 		CCEBC33D1C433BBC0022F8F5 /* CABasicAnimationVC.m in Sources */ = {isa = PBXBuildFile; fileRef = CCEBC33B1C433BBC0022F8F5 /* CABasicAnimationVC.m */; };
 		CCEBC33E1C433BBC0022F8F5 /* CABasicAnimationVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = CCEBC33C1C433BBC0022F8F5 /* CABasicAnimationVC.xib */; };
+		CCEBC3421C434F780022F8F5 /* GroupAniamtianVC.m in Sources */ = {isa = PBXBuildFile; fileRef = CCEBC3401C434F780022F8F5 /* GroupAniamtianVC.m */; };
+		CCEBC3431C434F780022F8F5 /* GroupAniamtianVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = CCEBC3411C434F780022F8F5 /* GroupAniamtianVC.xib */; };
+		CCEBC3471C4356AC0022F8F5 /* LilyKeyFrameVC.m in Sources */ = {isa = PBXBuildFile; fileRef = CCEBC3451C4356AC0022F8F5 /* LilyKeyFrameVC.m */; };
+		CCEBC3481C4356AC0022F8F5 /* LilyKeyFrameVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = CCEBC3461C4356AC0022F8F5 /* LilyKeyFrameVC.xib */; };
+		CCEBC34A1C4358C90022F8F5 /* Mario.png in Resources */ = {isa = PBXBuildFile; fileRef = CCEBC3491C4358C90022F8F5 /* Mario.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +91,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CC97874C1C437F1F00836229 /* LLTransation1VC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LLTransation1VC.h; sourceTree = "<group>"; };
+		CC97874D1C437F1F00836229 /* LLTransation1VC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LLTransation1VC.m; sourceTree = "<group>"; };
+		CC97874E1C437F1F00836229 /* LLTransation1VC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LLTransation1VC.xib; sourceTree = "<group>"; };
+		CC9787511C437FEE00836229 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		CC9787521C437FEE00836229 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		CC9787531C437FEE00836229 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		CC9787541C437FEE00836229 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		CC9787551C437FEE00836229 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		CC9787561C437FEE00836229 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		CC97875D1C4383C800836229 /* LLTransitioon2VC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LLTransitioon2VC.h; sourceTree = "<group>"; };
+		CC97875E1C4383C800836229 /* LLTransitioon2VC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LLTransitioon2VC.m; sourceTree = "<group>"; };
+		CC97875F1C4383C800836229 /* LLTransitioon2VC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LLTransitioon2VC.xib; sourceTree = "<group>"; };
 		CCAA0A4E1C3FB78400D72B24 /* pic.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic.jpg; sourceTree = "<group>"; };
 		CCBEC1861C3F678700515E42 /* flake.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flake.png; sourceTree = "<group>"; };
 		CCBEC2061C3FAB0300515E42 /* UIImage+draw.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+draw.h"; sourceTree = "<group>"; };
@@ -150,6 +177,13 @@
 		CCEBC33A1C433BBC0022F8F5 /* CABasicAnimationVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CABasicAnimationVC.h; sourceTree = "<group>"; };
 		CCEBC33B1C433BBC0022F8F5 /* CABasicAnimationVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CABasicAnimationVC.m; sourceTree = "<group>"; };
 		CCEBC33C1C433BBC0022F8F5 /* CABasicAnimationVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CABasicAnimationVC.xib; sourceTree = "<group>"; };
+		CCEBC33F1C434F780022F8F5 /* GroupAniamtianVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GroupAniamtianVC.h; sourceTree = "<group>"; };
+		CCEBC3401C434F780022F8F5 /* GroupAniamtianVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GroupAniamtianVC.m; sourceTree = "<group>"; };
+		CCEBC3411C434F780022F8F5 /* GroupAniamtianVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GroupAniamtianVC.xib; sourceTree = "<group>"; };
+		CCEBC3441C4356AC0022F8F5 /* LilyKeyFrameVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LilyKeyFrameVC.h; sourceTree = "<group>"; };
+		CCEBC3451C4356AC0022F8F5 /* LilyKeyFrameVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LilyKeyFrameVC.m; sourceTree = "<group>"; };
+		CCEBC3461C4356AC0022F8F5 /* LilyKeyFrameVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LilyKeyFrameVC.xib; sourceTree = "<group>"; };
+		CCEBC3491C4358C90022F8F5 /* Mario.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mario.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -251,6 +285,18 @@
 				CCEBC33A1C433BBC0022F8F5 /* CABasicAnimationVC.h */,
 				CCEBC33B1C433BBC0022F8F5 /* CABasicAnimationVC.m */,
 				CCEBC33C1C433BBC0022F8F5 /* CABasicAnimationVC.xib */,
+				CCEBC33F1C434F780022F8F5 /* GroupAniamtianVC.h */,
+				CCEBC3401C434F780022F8F5 /* GroupAniamtianVC.m */,
+				CCEBC3411C434F780022F8F5 /* GroupAniamtianVC.xib */,
+				CCEBC3441C4356AC0022F8F5 /* LilyKeyFrameVC.h */,
+				CCEBC3451C4356AC0022F8F5 /* LilyKeyFrameVC.m */,
+				CCEBC3461C4356AC0022F8F5 /* LilyKeyFrameVC.xib */,
+				CC97874C1C437F1F00836229 /* LLTransation1VC.h */,
+				CC97874D1C437F1F00836229 /* LLTransation1VC.m */,
+				CC97874E1C437F1F00836229 /* LLTransation1VC.xib */,
+				CC97875D1C4383C800836229 /* LLTransitioon2VC.h */,
+				CC97875E1C4383C800836229 /* LLTransitioon2VC.m */,
+				CC97875F1C4383C800836229 /* LLTransitioon2VC.xib */,
 			);
 			name = AnimationsVC;
 			sourceTree = "<group>";
@@ -265,6 +311,7 @@
 		CCD381761C40EC7A0009E867 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				CCEBC3491C4358C90022F8F5 /* Mario.png */,
 				CCD381771C40EC7A0009E867 /* tabbar_compose_camera@2x.png */,
 				CCD381781C40EC7A0009E867 /* tabbar_compose_camera@3x.png */,
 				CCD381791C40EC7A0009E867 /* tabbar_compose_idea@2x.png */,
@@ -320,6 +367,12 @@
 		CCDA631F1C3E3AAE008C7F50 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CC9787511C437FEE00836229 /* 2.png */,
+				CC9787521C437FEE00836229 /* 1.png */,
+				CC9787531C437FEE00836229 /* 3.png */,
+				CC9787541C437FEE00836229 /* 4.png */,
+				CC9787551C437FEE00836229 /* 5.png */,
+				CC9787561C437FEE00836229 /* 6.png */,
 				CCD381761C40EC7A0009E867 /* images */,
 				CCD381691C40B9C60009E867 /* jinmao.png */,
 				CCAA0A4E1C3FB78400D72B24 /* pic.jpg */,
@@ -476,28 +529,39 @@
 				CCD3815D1C40B34F0009E867 /* LayerPropertiesVC.xib in Resources */,
 				CCDA632F1C3E3AAE008C7F50 /* LaunchScreen.storyboard in Resources */,
 				CCD381841C40EC7A0009E867 /* tabbar_compose_camera@3x.png in Resources */,
+				CCEBC34A1C4358C90022F8F5 /* Mario.png in Resources */,
 				CCDA64201C3E91EF008C7F50 /* DrawBearViewController.xib in Resources */,
+				CC9787571C437FEE00836229 /* 2.png in Resources */,
+				CC97875C1C437FEE00836229 /* 6.png in Resources */,
 				CCD381851C40EC7A0009E867 /* tabbar_compose_idea@2x.png in Resources */,
 				CCDA63631C3E4CF8008C7F50 /* shapeViewController.xib in Resources */,
 				CCAA0A4F1C3FB78400D72B24 /* pic.jpg in Resources */,
 				CCD3818B1C40EC7A0009E867 /* tabbar_compose_photo@2x.png in Resources */,
+				CC9787611C4383C800836229 /* LLTransitioon2VC.xib in Resources */,
 				CCD381871C40EC7A0009E867 /* tabbar_compose_lbs@2x.png in Resources */,
 				CCD3818E1C40EC7A0009E867 /* tabbar_compose_review@3x.png in Resources */,
 				CCD3818D1C40EC7A0009E867 /* tabbar_compose_review@2x.png in Resources */,
 				CCDA632C1C3E3AAE008C7F50 /* Assets.xcassets in Resources */,
 				CCDA63561C3E3BD1008C7F50 /* LineViewController.xib in Resources */,
 				CCD3816A1C40B9C60009E867 /* jinmao.png in Resources */,
+				CC97875A1C437FEE00836229 /* 4.png in Resources */,
 				CCD381651C40B9150009E867 /* LayerDemoViewController.xib in Resources */,
+				CC9787591C437FEE00836229 /* 3.png in Resources */,
 				CCD381831C40EC7A0009E867 /* tabbar_compose_camera@2x.png in Resources */,
 				CCDA632A1C3E3AAE008C7F50 /* Main.storyboard in Resources */,
 				CCEBC33E1C433BBC0022F8F5 /* CABasicAnimationVC.xib in Resources */,
 				CCDA63731C3E58FF008C7F50 /* TextImageViewController.xib in Resources */,
 				CCD381881C40EC7A0009E867 /* tabbar_compose_lbs@3x.png in Resources */,
 				CCD381751C40EBD80009E867 /* TanHuangViewController.xib in Resources */,
+				CC97875B1C437FEE00836229 /* 5.png in Resources */,
 				CCD3818C1C40EC7A0009E867 /* tabbar_compose_photo@3x.png in Resources */,
 				CCBEC1871C3F678700515E42 /* flake.png in Resources */,
 				CCD3818A1C40EC7A0009E867 /* tabbar_compose_more@3x.png in Resources */,
+				CCEBC3481C4356AC0022F8F5 /* LilyKeyFrameVC.xib in Resources */,
+				CC9787581C437FEE00836229 /* 1.png in Resources */,
+				CCEBC3431C434F780022F8F5 /* GroupAniamtianVC.xib in Resources */,
 				CCD381891C40EC7A0009E867 /* tabbar_compose_more@2x.png in Resources */,
+				CC9787501C437F1F00836229 /* LLTransation1VC.xib in Resources */,
 				CCD381861C40EC7A0009E867 /* tabbar_compose_idea@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -526,11 +590,14 @@
 				CCDA63271C3E3AAE008C7F50 /* ViewController.m in Sources */,
 				CCD3815C1C40B34F0009E867 /* LayerPropertiesVC.m in Sources */,
 				CCBEC2081C3FAB0300515E42 /* UIImage+draw.m in Sources */,
+				CCEBC3421C434F780022F8F5 /* GroupAniamtianVC.m in Sources */,
 				CCDA63241C3E3AAE008C7F50 /* AppDelegate.m in Sources */,
 				CCDA63671C3E4D78008C7F50 /* circleViewController.m in Sources */,
 				CCDA636E1C3E58E2008C7F50 /* textImageView.m in Sources */,
+				CC97874F1C437F1F00836229 /* LLTransation1VC.m in Sources */,
 				CCDA635E1C3E4CDA008C7F50 /* shapeView.m in Sources */,
 				CCDA63721C3E58FF008C7F50 /* TextImageViewController.m in Sources */,
+				CC9787601C4383C800836229 /* LLTransitioon2VC.m in Sources */,
 				CCDA63551C3E3BD1008C7F50 /* LineViewController.m in Sources */,
 				CCDA63211C3E3AAE008C7F50 /* main.m in Sources */,
 				CCDA636B1C3E4DA3008C7F50 /* circleView.m in Sources */,
@@ -538,6 +605,7 @@
 				CCD381641C40B9150009E867 /* LayerDemoViewController.m in Sources */,
 				CCD381681C40B9240009E867 /* lilyLayer.m in Sources */,
 				CCEBC33D1C433BBC0022F8F5 /* CABasicAnimationVC.m in Sources */,
+				CCEBC3471C4356AC0022F8F5 /* LilyKeyFrameVC.m in Sources */,
 				CCDA64231C3E924D008C7F50 /* DrawBearView.m in Sources */,
 				CCD381741C40EBD80009E867 /* TanHuangViewController.m in Sources */,
 				CCDA641F1C3E91EF008C7F50 /* DrawBearViewController.m in Sources */,
